@@ -1,4 +1,4 @@
-/* sir in this program  how switch case minimized and error declaration can done*/ 
+
 
 #include<stdio.h>
 #include<stdlib.h>
