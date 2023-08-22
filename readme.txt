@@ -1,16 +1,3 @@
-/***
-gcc Editor.c
-./a.out input.c
+Editor Program User Guide
 
-Here input.c is input file for Editor
-when run program i am display input file on screen for esily understabding changes in file.
-
-for understanding the command firstly type 'h' for help.which gives all info about commands.
-then make changes.....
-
-
-when we across file saving that time firstly type file name.
-if you want to see this newly created file then check how this filename is look in your directory
-i think ? is attached to last. 
-
-***/
+This guide provides comprehensive instructions for using the Editor program, allowing you to view, edit, and understand changes in input files. To get started, compile the program using the terminal command gcc Editor.c, and then run it with ./a.out input.c, replacing input.c with your desired file. Upon launch, the file's content will be displayed for easy comprehension. Press h for a command menu explaining available actions. To save edited files, enter a filename (a ? will be appended) when prompted. The program offers various commands for navigation and editing; consult the command menu for details. By following these steps, users can confidently utilize the Editor program to enhance their file editing experience.
